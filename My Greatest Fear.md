@@ -9,7 +9,7 @@
 - Standing near a balcony or at the top of a building.
 - Looking out a window of a tall building.
   - I could die
-```
+```js
 let heartRate = 60
 let fear = heights
   if (fear == heights) {
